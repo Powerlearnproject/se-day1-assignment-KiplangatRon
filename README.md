@@ -5,7 +5,8 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+    Software engineering is an engineering discipline that is concerned with all aspects of software production from initial conception to
+operation and maintenance.Software engineering is not just concerned with the technical processes of software development. It also includes activities such as software project management and the development of tools, methods,and theories to support software development. In its engineering aspect software engineers apply theories, methods, and tools where these are appropriate. However, they use them selectively and always try to discover solutions to problems even when there are no applicable theories and methods. Software engineers also recognize that they must work within organizational and financial constraints, and they must look for solutions within these constraints.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
